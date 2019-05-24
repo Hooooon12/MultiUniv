@@ -1,0 +1,3 @@
+Usage: python doPlot.py [effi1.txt] [effi2.txt] ...
+You are able not to specify the effi files.
+In that case doPlot will feed all txt files in the current directory.
